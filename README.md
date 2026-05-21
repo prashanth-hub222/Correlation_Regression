@@ -60,8 +60,10 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
-# Result
+
+# Output 
 
 ![alt text](image.png)
 
-# Output 
+# Result
+Thus to analyse given data using coeffificient of correlation and regression line is executed successfully.
