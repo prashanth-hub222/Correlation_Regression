@@ -1,5 +1,5 @@
-## Name : NIKSHITHA G
-## Register Number : 212223110031
+## Name : prashanth raaj s
+## Register Number : 212225100035
 
 # Correlation and regression for data analysis
 # Aim : 
